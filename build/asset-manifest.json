@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1830b80e.css",
+    "main.js": "/static/js/main.0dadd8a3.js",
+    "static/js/787.2b95c13b.chunk.js": "/static/js/787.2b95c13b.chunk.js",
+    "static/media/shesharegister.png": "/static/media/shesharegister.ec0a5ac751ac1fe813b5.png",
+    "static/media/sheshalogin.png": "/static/media/sheshalogin.38f7eebea4c051959685.png",
+    "static/media/differentfood.png": "/static/media/differentfood.442d47af8ba065be82af.png",
+    "static/media/landingimg2.png": "/static/media/landingimg2.ccb323381d27ef1c000a.png",
+    "static/media/landingimg3.png": "/static/media/landingimg3.7d2bcb0152fb4aadce36.png",
+    "static/media/landingimg1.png": "/static/media/landingimg1.3a7caba1c80d428550d8.png",
+    "static/media/recipeMethodsPagePancake.png": "/static/media/recipeMethodsPagePancake.223ae1e488afc319c754.png",
+    "static/media/viewpancake2.png": "/static/media/viewpancake2.8c2bf5e1ae44b71e774d.png",
+    "static/media/viewburger.png": "/static/media/viewburger.daafed4dc394b379dccb.png",
+    "static/media/viewpicture.png": "/static/media/viewpicture.90f0a0184f087713de24.png",
+    "index.html": "/index.html",
+    "main.1830b80e.css.map": "/static/css/main.1830b80e.css.map",
+    "main.0dadd8a3.js.map": "/static/js/main.0dadd8a3.js.map",
+    "787.2b95c13b.chunk.js.map": "/static/js/787.2b95c13b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1830b80e.css",
+    "static/js/main.0dadd8a3.js"
+  ]
+}
